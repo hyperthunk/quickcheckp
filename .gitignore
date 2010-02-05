@@ -1,0 +1,4 @@
+.coverage
+*.kpf
+*.pyc
+build/*

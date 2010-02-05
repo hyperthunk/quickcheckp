@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+"""
+Example usage:
+    ./runtests -d -x --with-coverage -l nose.result
+"""
+import nose
+nose.run()

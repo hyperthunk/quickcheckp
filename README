@@ -1,0 +1,5 @@
+A set of property based testing utilities, based on Haskell's excellent
+QuickCheck module. Originally branched from http://github.com/dbravender/gp_through_unit_tests
+and modified to suit my needs.
+
+Look to the unit tests for usage examples.
